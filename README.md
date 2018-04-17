@@ -1,0 +1,1 @@
+Run the sample as ```node seed-database.js mydb.db```
